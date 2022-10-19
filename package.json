@@ -8,7 +8,7 @@
     "build": "mkdir -p dist && cp index.js dist"
   },
   "release": {
-    "branches": "main"
+    "branches": "master"
    },   
   "repository": {
     "type": "git",
