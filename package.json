@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jenny-s51/practice-gh-actions/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  }, 
   "homepage": "https://github.com/jenny-s51/practice-gh-actions#readme"
 }
